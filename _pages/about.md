@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Thanh Le, a Math PhD student at UNL since Fall 2022. My office is AVH 241. Here is [my LinkedIn](https://www.linkedin.com/in/thanhle30/). 
+I am Thanh Le (Lê Viết Lưu Thanh), a Math PhD student at UNL since Fall 2022. My office is AVH 241. Here is [my LinkedIn](https://www.linkedin.com/in/thanhle30/). 
 
 Please contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
 
