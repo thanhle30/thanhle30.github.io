@@ -21,10 +21,10 @@ repository               : "thanhle30.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Thanh-Le.jpg"
+  avatar           : "Thanh-Le.jpg"
   name             : "Thanh Le"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "I am a Math PhD student at UNL since Fall 2022."
+  pronouns         : "he/him"
+  bio              : "Graduate Teaching Assistant at UNL"
   location         : "Lincoln, Nebraska"
   employer         : "University of Nebraska-Lincoln"
   uri              : # URL
@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "thanhle30"
+  github           : # "thanhle30"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
