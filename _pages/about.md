@@ -43,4 +43,4 @@ My advisor is [Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/
 My hobbies: Soccer, Writing. I maintain a blog in Vietnamese on [here \(Facebook page\)](https://www.facebook.com/thanhlewriter).
 
 Micellaneous cool stuff:
-- This site was so easy to create, thanks to [academicpages](https://academicpages.github.io/). Note coding experience required, totally free - I highly recommend!
+- This site was so easy to create, thanks to [academicpages](https://academicpages.github.io/). No coding experience required, totally free - I highly recommend!
