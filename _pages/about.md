@@ -21,6 +21,7 @@ My advisor is [Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/
 ### Instructor of Record
 - Spring 2024: Math 101 (College Algebra), 1 section, at UNL
 - Fall 2023: Math 101 (College Algebra), 1 section, at UNL
+
 ### Teaching Assistant
 - Spring 2023: Math 107 (Calculus II) recitation, 2 sections, at UNL
 - Fall 2022: Math 107 (Calculus II) recitation, 2 sections, at UNL
