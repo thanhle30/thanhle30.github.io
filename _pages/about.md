@@ -40,6 +40,7 @@ My advisor is [Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/
 - Taught Olympiad Math (Number Theory, Combinatorics) for high school students in Kon Tum, Vietnam (July 2020, July 2022)
 
 ## Other Stuff
-My hobbies: Soccer, Writing. I maintain a blog in Vietnamese on [here \(Facebook page\)](https://www.facebook.com/thanhlewriter). <br>
+My hobbies: Soccer, Writing. I maintain a blog in Vietnamese on [here \(Facebook page\)](https://www.facebook.com/thanhlewriter).
+
 Micellaneous cool stuff:
-- This site was SO easy to create, thanks to [academicpages](https://academicpages.github.io/). Note coding experience required, totally free - I highly recommend!
+- This site was so easy to create, thanks to [academicpages](https://academicpages.github.io/). Note coding experience required, totally free - I highly recommend!
