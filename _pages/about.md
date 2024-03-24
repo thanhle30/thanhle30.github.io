@@ -25,6 +25,7 @@ My advisor is [Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/
 - Fall 2023: Math 101 (College Algebra), 1 section, at UNL
 
 ### Teaching Assistant
+- Summer 2023: Math 107 (Calculus II) recitation, 1 section, at UNL
 - Spring 2023: Math 107 (Calculus II) recitation, 2 sections, at UNL
 - Fall 2022: Math 107 (Calculus II) recitation, 2 sections, at UNL
 - Spring 2022: Machine Learning, at Fairfield University
