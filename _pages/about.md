@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Thanh Le, a Math PhD student at UNL since Fall 2022. My office is AVH 241. You can contact me via my email: *tle51[at]huskers[dot]unl[dot]edu*.
+I am Thanh Le, a Math PhD student at UNL since Fall 2022. My office is AVH 241. Here is [my LinkedIn](https://www.linkedin.com/in/thanhle30/). 
+
+Please contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
 
 I completed my Master degree in Mathematics at UNL in 2023. Before that, I completed my Bachelor degree in Computer Science and Mathematics at Fairfield University in 2022.
 
