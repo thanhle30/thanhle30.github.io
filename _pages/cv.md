@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can view my CV [here](thanhle30.github.io/files/CV_ThanhLe_May2024.pdf).
+You can view my CV [here](../files/CV_ThanhLe_May2024.pdf).
