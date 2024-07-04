@@ -44,6 +44,9 @@ My advisor is [Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/
 - Built the website for *Vietnam Math Modeling Contest* (2021)
 - Taught Olympiad Math (Number Theory, Combinatorics) for high school students in Kon Tum, Vietnam (July 2020, July 2022)
 
+## Materials
+In Spring 2024, I had a reading course on the first 4 chapters of *Probability: Theory and Examples* by Rick Durrett. I wrote up some [key concepts](/files/Durrett_Book_Theory.pdf) and a few [exercises](/files/Durrett_Book_Exercises.pdf).
+
 ## Other Stuff
 My hobbies: Soccer, Writing. I maintain a little blog in Vietnamese [here \(Facebook page\)](https://www.facebook.com/thanhlewriter).
 
