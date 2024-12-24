@@ -14,15 +14,17 @@ Please contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
 I completed my Master degree in Mathematics at UNL in 2023. Before that, I completed my Bachelor degree in Computer Science and Mathematics at Fairfield University in 2022.
 
 ## Research
-My advisor is [Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage"). My research interest is **Probabilistic Combinatorics**.
+My advisor is [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage"). My research interest is **Probabilistic Combinatorics**. We are working on a project about thresholds for Hamitonicity in directed random graphs with some degree conditions.
+
+In Spring 2025, I am going to be a Graduate Research Assistant for [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). We are probably working on theoretical Machine Learning, in particular the Transformer architecture.  
 
 ## Recent news
-- 08/05-08/09/2024: I attend [Minicourse: Synergies of probabilistic and extremal combinatorics](https://viasm.edu.vn/hdkh/minicourse-synergies-of-probabilistic-and-extremal-combinatorics) in Hanoi, Vietnam.
-- 07/13/2024: I attend [VIASM Annual Meeting 2024](https://viasm.edu.vn/en/hdkh/AM2024) in Hanoi, Vietnam.
-- 04/12/2024-04/14/2024: I attended the [Lake Michigan Workshop on Combinatorics and Graph Theory](https://sites.google.com/wmich.edu/dudek/9th-lake-michigan-workshop) in Kalamazoo, MI.
+- Fall 2024: I gave a talk in the Discrete Seminar (DisCo) of UNL's Math department. The talk was titled "Thresholds in random graphs and the Kahn-Kalai Conjecture."
+- 08/05-08/09/2024: I attended [Minicourse: Synergies of probabilistic and extremal combinatorics](https://viasm.edu.vn/hdkh/minicourse-synergies-of-probabilistic-and-extremal-combinatorics) in Hanoi, Vietnam.
 
 ## Teaching
 ### Instructor of Record
+- Fall 2024: Math 103 (College Algebra and Trigonometry), 1 section, at UNL
 - Spring 2024: Math 101 (College Algebra), 1 section, at UNL
 - Fall 2023: Math 101 (College Algebra), 1 section, at UNL
 
