@@ -49,7 +49,8 @@ In Spring 2025, I am going to be a Graduate Research Assistant for [Dr. Vinod Va
 - Taught Olympiad Math (Number Theory, Combinatorics) for high school students in Kon Tum, Vietnam (July 2020, July 2022)
 
 ## Materials
-In Spring 2024, I had a reading course on the first 4 chapters of *Probability: Theory and Examples* by Rick Durrett. I wrote up some [key concepts](/files/Durrett_Book_Theory.pdf) and a few [exercises](/files/Durrett_Book_Exercises.pdf).
+- UNL Putnam Seminar 2024: Here are some resources that I created: [Proof by Contradiction](/files/Putnam/Putnam_240926_PfByContrad.pdf), [Induction](/files/Putnam/Putnam_241017_Induction.pdf), [Extremal Heuristic](/files/Putnam/Putnam_241114_ExtremalHeuristics.pdf). I did not write up solutions, but contact me if you want to know where to find solutions! 
+- In Spring 2024, I had a reading course on the first 4 chapters of *Probability: Theory and Examples* by Rick Durrett. I wrote up some [key concepts](/files/Durrett_Book_Theory.pdf) and a few [exercises](/files/Durrett_Book_Exercises.pdf).
 
 ## Other Stuff
 My hobbies: Soccer, Writing. I maintain a little blog in Vietnamese [here \(Facebook page\)](https://www.facebook.com/thanhlewriter).
