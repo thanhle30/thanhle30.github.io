@@ -19,7 +19,7 @@ My advisor is [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimen
 In Spring 2025, I am going to be a Graduate Research Assistant for [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). We are probably working on theoretical Machine Learning, in particular the Transformer architecture.  
 
 ## Recent news
-- Fall 2024: I gave a talk in the Discrete Seminar (DisCo) of UNL's Math department. The talk was titled "Thresholds in random graphs and the Kahn-Kalai Conjecture."
+- Fall 2024: I gave a talk in the Discrete Seminar (DisCo) of UNL's Math department. The talk was titled "Thresholds in random graphs and the Kahn-Kalai Conjecture." Here are [my slides](/files/Talk-Nov24-KahnKalaiConjecture.pdf).
 - 08/05-08/09/2024: I attended [Minicourse: Synergies of probabilistic and extremal combinatorics](https://viasm.edu.vn/hdkh/minicourse-synergies-of-probabilistic-and-extremal-combinatorics) in Hanoi, Vietnam.
 
 ## Teaching
