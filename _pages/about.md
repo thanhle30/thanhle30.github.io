@@ -59,4 +59,4 @@ Micellaneous cool stuff:
 - This site was so easy to create, thanks to [academicpages](https://academicpages.github.io/). No coding experience required, totally free - I highly recommend
 
 <br>
-(This site was last updated on: July 4th, 2024)
+(This site was last updated on: December 27th, 2024)
