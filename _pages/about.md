@@ -36,13 +36,15 @@ In Spring 2025, I am going to be a Graduate Research Assistant for [Dr. Vinod Va
 - Fall 2021: Theory of Programming Languages, at Fairfield University
 
 ## Honors
+- _Lloyd Jackson Award_ (UNL, 2024, awarded based on scholarship)
 - _Math Department's Outstanding Qualifying Exam_ (UNL, 2023)
 - Rank 193/2975 at *Putnam Math Competition 2021*
 - Third Prize at *Vietnam Mathematical Olympiad 2017*
 - Media Coverage: [VnExpress (2018)](https://vnexpress.net/nam-sinh-kon-tum-duoc-5-dai-hoc-my-moi-hoc-bong-3788586.html)
 
 ## Outreach
-- Volunteer at NCUWM, Math Day (at UNL, in 2023, 2024)
+- Ran the UNL Putnam Competition Study Seminars (together with 2 faculties, Fall 2024)
+- Volunteered at NCUWM, Math Day (at UNL, in 2023, 2024)
 - Built the website for *Vietnam Math Modeling Contest* (2021)
 - Taught Olympiad Math (Number Theory, Combinatorics) for high school students in Kon Tum, Vietnam (July 2020, July 2022)
 
