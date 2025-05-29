@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me (last updated on 05/29/25)"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,7 @@ Please contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
 
 I completed my **MS in Math at UNL in 2023**, and **BS in CS and Math at Fairfield University in 2022**.
 
+_(site last updated in May 2025)_
 ## Research
 I am co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). My current research topics are: 
 - **Probabilistic Combinatorics** (with Dr. Pérez Giménez): We have been working on a project about thresholds for Hamitonicity in directed random graphs with some degree conditions.
