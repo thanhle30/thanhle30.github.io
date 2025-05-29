@@ -1,26 +1,28 @@
 ---
 permalink: /
-title: "About me"
+title: "About me (last updated on 05/29/25)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Thanh Le (Lê Viết Lưu Thanh), a Math PhD student at UNL since Fall 2022. My office is AVH 241. Here is [my LinkedIn](https://www.linkedin.com/in/thanhle30/). 
+I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candiate at UNL** (expected graduation May 2027). Here is [my LinkedIn](https://www.linkedin.com/in/thanhle30/). 
 
 Please contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
 
-I completed my Master degree in Mathematics at UNL in 2023. Before that, I completed my Bachelor degree in Computer Science and Mathematics at Fairfield University in 2022.
+I completed my **MS in Math at UNL in 2023**, and **BS in CS and Math at Fairfield University in 2022**.
 
 ## Research
-My advisor is [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage"). My research interest is **Probabilistic Combinatorics**. We are working on a project about thresholds for Hamitonicity in directed random graphs with some degree conditions.
-
-In Spring 2025, I am going to be a Graduate Research Assistant for [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). We are probably working on theoretical Machine Learning, in particular the Transformer architecture.  
+I am co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). My current research topics are: 
+- **Probabilistic Combinatorics** (with Dr. Pérez Giménez): We have been working on a project about thresholds for Hamitonicity in directed random graphs with some degree conditions.
+- **Deep Learning** (mostly with Dr. Variyam's team): We study what the theoretical capabilities and limitations of Transformers (a deep learning architecture). Typical papers in this research line include [Hahn 2020](https://arxiv.org/abs/1906.06755), [Strobl et al. 2024](https://arxiv.org/abs/2311.00208) (a survey).     
 
 ## Recent news
-- Fall 2024: I gave a talk in the Discrete Seminar (DisCo) of UNL's Math department. The talk was titled "Thresholds in random graphs and the Kahn-Kalai Conjecture." Here are [my slides](/files/Talk-Nov24-KahnKalaiConjecture.pdf).
-- 08/05-08/09/2024: I attended [Minicourse: Synergies of probabilistic and extremal combinatorics](https://viasm.edu.vn/hdkh/minicourse-synergies-of-probabilistic-and-extremal-combinatorics) in Hanoi, Vietnam.
+- Fall 2025 and Spring 2026: I am co-organizing UNL's Discrete Seminar (DisCo). 
+- June 2025: I am attending [SLMath's summer school "Local Limits of Random Graph"](https://www.slmath.org/summer-schools/1099) at Paris-Saclay University, France
+- May 2025: I gave a talk in the Discrete Seminar (DisCo) of UNL's Math department. The talk was titled "On the existence of Hamilton cycles with a periodic pattern in a random digraph with degree at least 2."
+- April 2025: I attended Lake Michigan Workshop on Combinatorics and Graph Theory at UIC.
 
 ## Teaching
 ### Instructor of Record
@@ -42,7 +44,9 @@ In Spring 2025, I am going to be a Graduate Research Assistant for [Dr. Vinod Va
 - Third Prize at *Vietnam Mathematical Olympiad 2017*
 - Media Coverage: [VnExpress (2018)](https://vnexpress.net/nam-sinh-kon-tum-duoc-5-dai-hoc-my-moi-hoc-bong-3788586.html)
 
-## Outreach
+## Outreach and Service
+- Mentor in UNL Math department's Directed Reading Program (DRP) (Spring 2025)
+- Mentor in UNL Math department's Graduate Student Mentor Program (2024-2025 school year): mentored a first-year grad student to help their transition into grad school
 - Ran the UNL Putnam Competition Study Seminars (together with 2 faculties, Fall 2024)
 - Volunteered at NCUWM, Math Day (at UNL, in 2023, 2024)
 - Built the website for *Vietnam Math Modeling Contest* (2021)
@@ -56,7 +60,4 @@ In Spring 2025, I am going to be a Graduate Research Assistant for [Dr. Vinod Va
 My hobbies: Soccer, Writing. I maintain a little blog in Vietnamese [here \(Facebook page\)](https://www.facebook.com/thanhlewriter).
 
 Micellaneous cool stuff:
-- This site was so easy to create, thanks to [academicpages](https://academicpages.github.io/). No coding experience required, totally free - I highly recommend
-
-<br>
-(This site was last updated on: December 27th, 2024)
+- This site was so easy to create, thanks to [academicpages](https://academicpages.github.io/). No coding experience required, totally free - I highly recommend.
