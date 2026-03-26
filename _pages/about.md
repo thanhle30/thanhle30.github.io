@@ -15,7 +15,7 @@ I completed my **MS in Math at UNL in 2023**, and **BS in CS and Math at Fairfie
 
 _(site last updated in March 2026)_
 ## Research
-I am co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am fortunate to be funded by Dr. Variyam to be a _Graduate Research Assistant_.
+I am co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am fortunate to be funded by Dr. Variyam to be his _Graduate Research Assistant_ (since Spring 2025).
 
 My current research topics are: 
 - **Probabilistic Combinatorics**:
