@@ -26,7 +26,7 @@ My current research topics are:
 
 ## Recent news
 - Summer 2026: I will be a Machine Learning Engineer Intern at [Ocuvera](https://ocuvera.com/).
-- May 2-3, 2026: I am attending [Lake Michigan Workshop 2026]() at University of Notre Dame. 
+- May 2-3, 2026: I am attending [Lake Michigan Workshop 2026](https://sites.nd.edu/lmcgt/) at University of Notre Dame. 
 - March 27-29, 2026: I am attending [GSCC 2026](https://sites.google.com/view/gscc2026) at UIC. Please say hi!
   - I am giving a talk tilted "Hamilton cycle with a periodic pattern in random digraphs with minimum total degree at least 2." 
 
