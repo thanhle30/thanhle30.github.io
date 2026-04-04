@@ -25,8 +25,8 @@ My current research topics are:
   - Theoretical capabilities and limitations of Transformers (a deep learning architecture). Typical papers in this research line include [Hahn 2020](https://arxiv.org/abs/1906.06755), [Strobl et al. 2024](https://arxiv.org/abs/2311.00208) (a survey).     
 
 ## Recent news
-- Summer 2026: I will be a Machine Learning Engineer Intern at [Ocuvera](https://ocuvera.com/).
-- May 2-3, 2026: I am attending [Lake Michigan Workshop 2026](https://sites.nd.edu/lmcgt/) at University of Notre Dame. 
+<!-- - Summer 2026: I will be a Machine Learning Engineer Intern at [Ocuvera](https://ocuvera.com/). -->
+- May 4-5, 2026: I am attending [Recent Developments in Discrete Probability](https://sites.northwestern.edu/recentdevelopmentsdiscreteprobability2026/) in Chicago (hosted by Northwestern University. 
 - March 27-29, 2026: I am attending [GSCC 2026](https://sites.google.com/view/gscc2026) at UIC. Please say hi!
   - I am giving a talk tilted "Hamilton cycle with a periodic pattern in random digraphs with minimum total degree at least 2." 
 
