@@ -7,22 +7,36 @@ redirect_from:
   - /about.html
 ---
 
-I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candiate at UNL** (expected graduation May 2027). Here is [my LinkedIn](https://www.linkedin.com/in/thanhle30/). 
+I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candiate at University of Nebraska-Lincoln** (expected graduation May 2027). I completed my MS in Math at UNL in 2023, and BS in Computer Science and Math at Fairfield University in 2022.
 
-Please contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
-
-I completed my **MS in Math at UNL in 2023**, and **BS in CS and Math at Fairfield University in 2022**.
+You can contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
 
 _(site last updated in March 2026)_
 ## Research
-I am co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am fortunate to be funded by Dr. Variyam to be his _Graduate Research Assistant_ (since Spring 2025).
+I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am funded by Vinod to as a _Graduate Research Assistant_ (since Spring 2025).
 
-My current research topics are: 
+**Research Interests:** 
+- Theory of deep learning: expressive power of transformers and chain-of-thought (CoT) reasoning
+- AI safety and alignment
+- Probabilistic combinatorics: random graph theory
+- Applied AI: computer vision
+
+**Papers and Manuscripts:**
+- Thanh Le, A. Pavan, and N. V. Vinodchandran. A Tight Hierarchy for Chain of
+Thought. Advances in Neural Information Processing Systems (NeurIPS), 2026. To
+appear.
+-  Thanh Le, A. Pavan, Xavier Pérez-Giménez, and N. V. Vinodchandran. Cliques,
+Quasi-Cliques, and Bicliques in Random Graphs: Sampling and Algorithms. Submitted, 2026.
+- Derek DeBlieck, Thanh Le, and Xavier Pérez-Giménez. Hamilton cycles with a
+periodic pattern in random digraphs with minimum total degree at least 2. In
+preparation, 2026.
+
+<!--My current research topics are: 
 - **Probabilistic Combinatorics**:
   - Thresholds for Hamitonicity in directed random graphs with some degree conditions. _In preparation_.
   - Maximum clique problem in Erdos-Renyi random graph. 
 - **Deep Learning**:
-  - Theoretical capabilities and limitations of Transformers (a deep learning architecture). Typical papers in this research line include [Hahn 2020](https://arxiv.org/abs/1906.06755), [Strobl et al. 2024](https://arxiv.org/abs/2311.00208) (a survey).     
+  - Theoretical capabilities and limitations of Transformers (a deep learning architecture). Typical papers in this research line include [Hahn 2020](https://arxiv.org/abs/1906.06755), [Strobl et al. 2024](https://arxiv.org/abs/2311.00208) (a survey).   -->  
 
 ## Recent news
 <!-- - Summer 2026: I will be a Machine Learning Engineer Intern at [Ocuvera](https://ocuvera.com/). -->
