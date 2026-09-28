@@ -6,12 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candiate at University of Nebraska-Lincoln** (expected graduation May 2027). I completed my MS in Math at UNL in 2023, and BS in Computer Science and Math at Fairfield University in 2022. You can contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
 
-I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candiate at University of Nebraska-Lincoln** (expected graduation May 2027). I completed my MS in Math at UNL in 2023, and BS in Computer Science and Math at Fairfield University in 2022.
-
-You can contact me via email: *tle51[at]huskers[dot]unl[dot]edu*
-
-_(site last updated in March 2026)_
 ## Research
 I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am funded by Vinod to as a _Graduate Research Assistant_ (since Spring 2025).
 
@@ -86,3 +82,5 @@ My hobbies: Soccer, Reading. I am reading "Romance of the Three Kingdoms."
 
 Micellaneous cool stuff:
 - This site was so easy to create, thanks to [academicpages](https://academicpages.github.io/). No coding experience required, totally free - I highly recommend.
+
+_(site last updated in Sep. 2026)_
