@@ -39,12 +39,15 @@ preparation, 2026.
 
 
 ## News/Plans
-<!-- - Summer 2026: I will be a Machine Learning Engineer Intern at [Ocuvera](https://ocuvera.com/). -->
-<!-- - May 4-5, 2026: I am attending [Recent Developments in Discrete Probability](https://sites.northwestern.edu/recentdevelopmentsdiscreteprobability2026/) in Chicago (hosted by Northwestern University). 
-- March 27-29, 2026: I am attending [GSCC 2026](https://sites.google.com/view/gscc2026) at UIC. Please say hi!
-  - I am giving a talk tilted "Hamilton cycle with a periodic pattern in random digraphs with minimum total degree at least 2." -->
- 
-<div markdown="1" style="max-height: 250px; overflow-y: auto; padding-right: 12px;" tabindex="0" role="region" aria-label="Recent news">
+
+<style>
+.news-scroll p {
+  margin: 0 0 0.4em;
+  line-height: 1.35;
+}
+</style>
+
+<div markdown="1" class="news-scroll" style="max-height: 250px; overflow-y: auto; padding-right: 12px;" tabindex="0" role="region" aria-label="Recent news">
   
 _Upcoming_
 
@@ -52,15 +55,17 @@ _Upcoming_
 
 **[Oct. 8-10, 2026]** I am attending [Probabilistic combinatorics at Rutgers](https://probcomb.github.io/). 
 
-**[Aug. 2026]** I completed my computer vision research internship at Ocuvera!
-
 _Past news_
+
+**[Aug. 2026]** I completed my computer vision research internship at Ocuvera!
 
 **[May 2026]** I attended [Recent Developments in Discrete Probability](https://sites.northwestern.edu/).
 
 **[Mar. 2026]** I gave a talk on Hamilton cycles in random digraphs at GSCC 2026.
 
 </div>
+
+
 
 ## Teaching
 ### Instructor of Record
