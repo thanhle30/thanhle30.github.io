@@ -11,7 +11,7 @@ I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candiate at University of Ne
 You can contact me via email: tle51[at]huskers[dot]unl[dot]edu
 
 ## Research
-I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am funded by Vinod to as a _Graduate Research Assistant_ (since Spring 2025).
+I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am funded by Vinod as a _Graduate Research Assistant_ (since Spring 2025).
 
 **Research Interests:** 
 - **Theory of deep learning**: expressive power of transformers and chain-of-thought (CoT) reasoning
