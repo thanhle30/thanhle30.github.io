@@ -6,12 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candiate at University of Nebraska-Lincoln** (_expected May 2027_). I completed my MS in Math at UNL in 2023, and BS in Computer Science and Math at Fairfield University in 2022. 
+I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candidate at University of Nebraska-Lincoln** (_expected May 2027_). I completed my MS in Math at UNL in 2023, and BS in Computer Science and Math at Fairfield University in 2022. 
 
 You can contact me via email: tle51[at]huskers[dot]unl[dot]edu
 
+I am on the job market! I am seeking AI-related research positions in academia and industry, with a particular interest in AI safety and alignment.
+
 ## Research
-I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I am funded by Vinod as a _Graduate Research Assistant_ (since Spring 2025).
+I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I have been a _Graduate Research Assistant_ under Vinod's supervision since Spring 2025.
 
 **Research Interests:** 
 - **Theory of deep learning**: expressive power of transformers and chain-of-thought (CoT) reasoning
@@ -53,9 +55,9 @@ _Upcoming_
 
 **[Dec. 2026]** I am attending NeurIPS 2026, venue tbd.
 
-**[Oct. 8-10, 2026]** I am attending [Probabilistic combinatorics at Rutgers](https://probcomb.github.io/). 
-
 _Past news_
+
+**[Oct. 8-10, 2026]** I attended [Probabilistic combinatorics at Rutgers](https://probcomb.github.io/). 
 
 **[Aug. 2026]** I completed my computer vision research internship at Ocuvera!
 
@@ -108,4 +110,4 @@ _Past news_
 ## Other Stuff
 - My hobbies: soccer, reading, chess.
 
-_(site last updated in Sep. 2026)_
+_(site last updated in Oct. 2026)_
