@@ -10,7 +10,7 @@ I am **Thanh Le (Lê Viết Lưu Thanh), a Math PhD Candidate at University of N
 
 You can contact me via email: tle51[at]huskers[dot]unl[dot]edu
 
-I am on the job market! I am seeking AI-related research positions in academia and industry, with a particular interest in AI safety and alignment.
+**I am on the job market!** I am seeking AI-related research positions in academia and industry, with a particular interest in AI safety and alignment.
 
 ## Research
 I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math.unl.edu/~xperezgimenez2/ "Xavier's homepage") and  [Dr. Vinod Variyam](https://cse.unl.edu/~vinod/ "Vinod's homepage"). I have been a _Graduate Research Assistant_ under Vinod's supervision since Spring 2025.
