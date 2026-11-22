@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 - You can view my CV [here](../files/CV_ThanhLe_261027.pdf) (last updated Oct. 2026).
-- You can view my resume [here](../files/ThanhLe_Resume_261121.pdf) (last updated Nov. 2026).
+- You can view my resume [here](../files/ThanhLe_Resume_general_261121.pdf) (last updated Nov. 2026).
 
 
