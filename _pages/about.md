@@ -111,4 +111,4 @@ _Past news_
 ## Other Stuff
 - My hobbies: soccer, reading, chess.
 
-_(site last updated in Oct. 2026)_
+_(site last updated in Nov. 2026)_
