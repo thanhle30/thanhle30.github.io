@@ -24,9 +24,9 @@ I am fortunate to be co-advised by [Dr. Xavier Pérez Giménez](https://www.math
 **Papers and Manuscripts:**
 - **Thanh Le**, A. Pavan, and N. V. Vinodchandran. _A Tight Hierarchy for Chain of
 Thought_. Advances in Neural Information Processing Systems (NeurIPS), 2026. To
-appear.
+appear. [[arXiv](https://arxiv.org/abs/2611.09759)]
 -  **Thanh Le**, A. Pavan, Xavier Pérez-Giménez, and N. V. Vinodchandran. _Cliques,
-Quasi-Cliques, and Bicliques in Random Graphs: Sampling and Algorithms_. Submitted, 2026.
+Quasi-Cliques, and Bicliques in Random Graphs: Sampling and Algorithms_. Preprint, 2026. [[arXiv](https://arxiv.org/abs/2611.28307)]
 - Derek DeBlieck, **Thanh Le**, and Xavier Pérez-Giménez. _Hamilton cycles with a
 periodic pattern in random digraphs with minimum total degree at least 2_. In
 preparation, 2026.
@@ -53,7 +53,8 @@ preparation, 2026.
   
 _Upcoming_
 
-**[Dec. 2026]** I am attending NeurIPS 2026, venue tbd.
+**[Dec. 2026]** I am attending NeurIPS 2026 in Atlanta. I am giving a poster talk for our paper "A Tight Hierarchy for Chain of
+Thought".
 
 _Past news_
 
